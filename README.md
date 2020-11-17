@@ -1,5 +1,5 @@
 # EA-MINIMO-1
-** EA MINIMO 1 2016 EJEMPLO RESULTO **
+**EA MINIMO 1 2016 EJEMPLO RESULTO**
 
 Enunciado	del	primer	ejercicio de	mínimos
 Debe implementarse una aplicación web responsive que ofrezca las siguientes funcionalidades:
